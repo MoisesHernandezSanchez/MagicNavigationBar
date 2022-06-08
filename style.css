@@ -85,8 +85,7 @@ body {
 
 .indicator {
   position: absolute;
-  /* Top -50% didnt work properly so hardcoded to 405px */
-  top: 405px;
+  bottom: 50%;
   width: 70px;
   height: 70px;
   background: #29fd53;
